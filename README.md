@@ -115,3 +115,6 @@
  </tr>  
 </table>
 
+<h1>🏆 Trophies</h1>
+<img src="https://github-profile-trophy.vercel.app/?username=tenzinkunchok25&theme=radical"/>
+
