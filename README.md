@@ -41,16 +41,77 @@
 </div>
 
 <h1 align='center'>📱Projects</h1>
+
 <table>
   <tr>
-    <td width='50%>
-      <h2 align='center>Film Horizon</h2>
-      <div align='center>
-        <a href="https://filmhorizon.netlify.app">
-          <img src="img/filmhorizon.png" alt="Film Horizon"/>
+    <td width='40%' colspan=2>
+      <h2 align='center'>Film Horizon</h2>
+      <div align='center'>  
+        <a href='https://filmhorizon.netlify.app/'>
+          <img src='img/filmhorizon.png' alt='Movie'/>
         </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/tenzinkunchok25/film-horizon'>
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href='https://filmhorizon.netlify.app/'>
+            <img src='https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7'/>
+          </a>
+        </p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="REST">
       </div>
-     </td>
+    </td>
  </tr>
+  <tr>
+    <td width='40%'>
+      <h2 align='center'>3D Portfolio</h2>
+      <div align='center'>  
+        <a href='https://tenzinkunchok25.github.io/kunchok-portfolio/'>
+          <img src='img/portfolio.png' alt='Movie'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/tenzinkunchok25/kunchok-portfolio'>
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href='https://tenzinkunchok25.github.io/kunchok-portfolio/'>
+            <img src='https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white'/>
+          </a>
+        </p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+        <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three">
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">        
+      </div>
+    </td>
+    <td width='40%'>
+      <h2 align='center'>Netflix</h2>
+      <div align='center'>  
+        <a href='https://tenzinkunchok25.github.io/netflix/'>
+          <img src='img/netflix.png' alt='Movie'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/tenzinkunchok25/netflix'>
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href='https://tenzinkunchok25.github.io/netflix'>
+            <img src='https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white'/>
+          </a>
+        </p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">  
+      </div>
+    </td>
+ </tr>  
 </table>
 
