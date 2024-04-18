@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hello, <a href="https://github.com/tenzinkunchok25" 
+  title="Profile">I'm Tenzin Kunchok</a>👋</h2>
 
-<!--
-**tenzinkunchok25/tenzinkunchok25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+  👩🏻‍💻 I'm a Software Engineer from Toronto, Canada<br>
+  👩🏻‍🎓 Studied Computer Science at York University, Toronto<br>
+  🎨 creating visually appealing websites is what excites me<br>
+  💭 Currently interested in learning to create 3D websites<br>
+  🌷 Hope to get into Machine learning and AI, but a long journey is ahead<br>
+  <br>
+  📫 How to reach me:
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tenzinkunchok25&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Tenzin Kunchok's GitHub stats"><br/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
