@@ -43,15 +43,14 @@
 <h1 align='center'>📱Projects</h1>
 <table>
   <tr>
-  <td width='50%>
-  <h2 align='center>Film Horizon</h2>
-  <div align='center>
-    <a href='https://filmhorizon.netlify.app'>
-    </a>
-    </div>
-    
-  </td>
-    
-  </tr>
+    <td width='50%>
+      <h2 align='center>Film Horizon</h2>
+      <div align='center>
+        <a href="https://filmhorizon.netlify.app">
+          <img src="img/filmhorizon.png" alt="Film Horizon"/>
+        </a>
+      </div>
+     </td>
+ </tr>
 </table>
 
