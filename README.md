@@ -11,6 +11,15 @@
   <br>
   📫 How to reach me:
 </p>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/tenzinkunchok77/"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/>
+  </a>
+  <a href="mailto: tenzinkunchok012511@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tenzinkunchok25&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Tenzin Kunchok's GitHub stats"><br/>
@@ -26,8 +35,23 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="REST">
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="REST">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">  
 </div>
+
+<h1 align='center'>📱Projects</h1>
+<table>
+  <tr>
+  <td width='50%>
+  <h2 align='center>Film Horizon</h2>
+  <div align='center>
+    <a href='https://filmhorizon.netlify.app'>
+    </a>
+    </div>
+    
+  </td>
+    
+  </tr>
+</table>
 
