@@ -22,7 +22,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenzinkunchok25&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Tenzin Kunchok's GitHub stats"><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tenzinkunchok25&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenzinkunchok25&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
+
+  </a>
 </div>
 
 <h1 align="center">💻 Tech Stack</h1>
