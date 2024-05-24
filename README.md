@@ -121,7 +121,29 @@
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">  
       </div>
     </td>
- </tr>  
+ </tr>
+  <tr>
+    <td width='40%'>
+      <h2 align='center'>Dashboard NextJS</h2>
+      <div align='center'>  
+        <a href='https://nextjs-dashboard-dusky-seven-98.vercel.app/'>
+          <img src='img/nextjs.png' alt='Dashboard'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://github.com/tenzinkunchok25/nextjs-dashboard'>
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+          <a href='https://nextjs-dashboard-dusky-seven-98.vercel.app/'>
+            <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+          </a>
+        </p>
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">  
+      </div>
+    </td>
+  </tr>
 </table>
 
 <h1>🏆 Trophies</h1>
